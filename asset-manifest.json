@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Restaurant-front/static/css/main.aba4c3e3.chunk.css",
+    "main.js": "/Restaurant-front/static/js/main.e91069ab.chunk.js",
+    "main.js.map": "/Restaurant-front/static/js/main.e91069ab.chunk.js.map",
+    "runtime-main.js": "/Restaurant-front/static/js/runtime-main.6e9fb69e.js",
+    "runtime-main.js.map": "/Restaurant-front/static/js/runtime-main.6e9fb69e.js.map",
+    "static/css/2.1820ef0f.chunk.css": "/Restaurant-front/static/css/2.1820ef0f.chunk.css",
+    "static/js/2.fa515657.chunk.js": "/Restaurant-front/static/js/2.fa515657.chunk.js",
+    "static/js/2.fa515657.chunk.js.map": "/Restaurant-front/static/js/2.fa515657.chunk.js.map",
+    "static/js/3.7adfeae8.chunk.js": "/Restaurant-front/static/js/3.7adfeae8.chunk.js",
+    "static/js/3.7adfeae8.chunk.js.map": "/Restaurant-front/static/js/3.7adfeae8.chunk.js.map",
+    "index.html": "/Restaurant-front/index.html",
+    "static/css/2.1820ef0f.chunk.css.map": "/Restaurant-front/static/css/2.1820ef0f.chunk.css.map",
+    "static/css/main.aba4c3e3.chunk.css.map": "/Restaurant-front/static/css/main.aba4c3e3.chunk.css.map",
+    "static/js/2.fa515657.chunk.js.LICENSE.txt": "/Restaurant-front/static/js/2.fa515657.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Restaurant-front/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e9fb69e.js",
+    "static/css/2.1820ef0f.chunk.css",
+    "static/js/2.fa515657.chunk.js",
+    "static/css/main.aba4c3e3.chunk.css",
+    "static/js/main.e91069ab.chunk.js"
+  ]
+}
